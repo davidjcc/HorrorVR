@@ -1,28 +1,22 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# ONLY INCLUDE /Source/, /Content/ & *.uproject
+#
+################################################
 
-# Precompiled Headers
-*.gch
-*.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+/Binaries/*
 
-# Fortran module files
-*.mod
+/Build/*
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+/Intermediate/*
 
-# Executables
-*.exe
-*.out
-*.app
+/Saved/*
+
+/Documentation/*
+
+
+*.sdf
+
+*.sln
+
+*.suo
+
