@@ -1,2 +1,2 @@
 # HorrorVR
-University project: Horror Virtual Reality Game using the Unreal Engine.
+University Final Year Group Project: Horror Virtual Reality Game using the Unreal Engine.
